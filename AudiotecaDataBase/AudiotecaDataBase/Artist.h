@@ -1,5 +1,11 @@
 #pragma once
-class Artist
-{
+#include "Album.h"
+
+class Artist :public Album{
+public:
+	void create();
+
+private:
+
 };
 
