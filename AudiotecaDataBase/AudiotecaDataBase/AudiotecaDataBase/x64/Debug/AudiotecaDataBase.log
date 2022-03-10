@@ -1,8 +1,0 @@
-﻿  Source.cpp
-C:\Users\admin\source\repos\DB_Struct_Algr\AudiotecaDataBase\AudiotecaDataBase\Source.cpp(57,17): warning C4101: price: неиспользованная локальная переменная
-C:\Users\admin\source\repos\DB_Struct_Algr\AudiotecaDataBase\AudiotecaDataBase\Source.cpp(58,6): warning C4101: alid: неиспользованная локальная переменная
-C:\Users\admin\source\repos\DB_Struct_Algr\AudiotecaDataBase\AudiotecaDataBase\Source.cpp(57,28): warning C4101: duraction: неиспользованная локальная переменная
-C:\Users\admin\source\repos\DB_Struct_Algr\AudiotecaDataBase\AudiotecaDataBase\Source.cpp(58,12): warning C4101: arid: неиспользованная локальная переменная
-C:\Users\admin\source\repos\DB_Struct_Algr\AudiotecaDataBase\AudiotecaDataBase\Source.cpp(57,43): warning C4101: size: неиспользованная локальная переменная
-C:\Users\admin\source\repos\DB_Struct_Algr\AudiotecaDataBase\AudiotecaDataBase\Source.cpp(57,6): warning C4101: track: неиспользованная локальная переменная
-  AudiotecaDataBase.vcxproj -> C:\Users\admin\source\repos\DB_Struct_Algr\AudiotecaDataBase\x64\Debug\AudiotecaDataBase.exe
