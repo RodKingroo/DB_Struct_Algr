@@ -33,14 +33,13 @@ int main()
     curelem++;
     int b = *curelem;
     curelem++;
-    int ab, k = 0;
+    int k = 0;
     for (curelem; curelem != numlist.end(); curelem++)
     {
-        ab = *curelem;
-        if (((a + b) % 3 == 0) && ((a + b) % 6 != 0) && ((a * b) % 10 == 8))
+        if (((a + b) % 3 == 0) && ((a + b) % 6 != 0) && (abs(a * b) % 10 == 8))
             k++;
         a = b;
-        b = ab;
+        b = *curelem;
     }
 
     end_time = high_resolution_clock::now();
