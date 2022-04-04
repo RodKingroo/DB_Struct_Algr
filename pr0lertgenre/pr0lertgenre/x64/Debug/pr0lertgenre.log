@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(30,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(49,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(68,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(71,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(90,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(93,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(96,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(99,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(102,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+D:\Project\SDA\pr0lertgenre\pr0lertgenre\Source.cpp(105,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  pr0lertgenre.vcxproj -> D:\Project\SDA\pr0lertgenre\x64\Debug\pr0lertgenre.exe
